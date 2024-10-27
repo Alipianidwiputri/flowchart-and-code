@@ -2,12 +2,12 @@
 
    A.	Penjelasan flowchart untuk menentukan bilangan terbesar dari 3 buah bilangan yang diinputkan
 Menjelaskan detail flowchart tersebut yang menampilkan algoritma untuk mencari bilangan terbesar dari 3 bilangan:
-   a. Mulai 
-- Program dimulai dengan input 3 bilangan: bil1, bil2, dan bil3
-   b.	Proses Input
-- Memasukkan bil1
-- Memasukkan bil2
-- Memasukkan bil3
+ 1.  Mulai 
+o	Program dimulai dengan input 3 bilangan: bil1, bil2, dan bil3
+ 2.	Proses Input 
+o	Memasukkan bil1
+o	Memasukkan bil2
+o	Memasukkan bil3
  3.	Proses Perbandingan (ada 2 tahap) 
 o	Tahap 1: Membandingkan bil1+bil2+bil3 > bil1 
 	Jika Ya: Terbesar = bil1
@@ -27,6 +27,9 @@ Saat dijalankan, program akan:
   3.	Menentukan bilangan terbesar
   4.	Menampilkan hasilnya
   5.	Mengakhiri program
+
+
+
 
 B.	Penjelasan dari pseudocode untuk menentukan bilangan terbesar dari  3 buah bilangan :
  1.	Definisi Fungsi:
@@ -107,6 +110,9 @@ Cara Kerja:
   3.	Jika angka baru lebih besar, maka itu menjadi nilai maksimum yang baru
   4.	Proses berlanjut sampai pengguna memasukkan 0
   5.	Program menampilkan nilai terbesar yang ditemukan
+
+
+
 
 B. Penjelasan dari pseudocode untuk menentukan bilangan terbesar dari N bilangan yang diinputkan :
 •  Menginisialisasi variabel Max dengan nilai 0 
